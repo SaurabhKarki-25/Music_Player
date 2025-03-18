@@ -9,18 +9,32 @@ const songs = [
   "./songs/Agar Ho Tum - Mr. And Mrs. Mahi .mp3",
   "./songs/Ishq Mein - Nadaaniyan.mp3",
   "./songs/Tu Hai Champion - Chandu Champion .mp3 ",
-  "./songs/Kissik - Pushpa 2 The Rule .mp3",
-  "./songs/Pushpa Pushpa - Pushpa 2 The Rule.mp3",
-  "./songs/128-Rabba Mereya - B Praak 128 Kbps.mp3"
+  "./songs/128-Rabba Mereya - B Praak 128 Kbps.mp3",
+  "./songs/wavy.mp3",
+  "./songs/128-Jo Tum Mere Ho - Anuv Jain 128 Kbps.mp3",
+  "./songs/128-Suniyan Suniyan - Juss 128 Kbps.mp3",
+  "./songs/128-Ve Haaniyaan - Avvy Sra 128 Kbps.mp3",
+  "./songs/We_Rollin_1.mp3",
+  "./songs/Routine.mp3",
+  "./songs/Fell_For_You.mp3",
+  "./songs/52_Bars_1.mp3",
+ 
 ];
 
 const images = [
     "./images/agarhotum.jpg",
     "./images/ishqmainnadaniiyan.jpg",
     "./images/tuhainchampion.jpg",
-    "./images/kissik.jpg",
-    "./images/pushpa.jpg",
-    "./images/rabbamerya.jpg"
+    "./images/rabbamerya.jpg",
+    "./images/wavy.jpg",
+    "./images/anuvjain.jpg",
+    "./images/Suniyan Suniyan - Juss.jpg",
+    "./images/Ve Haaniyaan - Avvy Sra.jpg",
+    "./images/rollin.jpg",
+    "./images/Routinr.jpg",
+    "./images/fellforyou.jpg",
+    "./images/52-Bars-1.jpg",
+    
 ];
 
 let currentSongIndex = 0;
